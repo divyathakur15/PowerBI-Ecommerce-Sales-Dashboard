@@ -21,7 +21,7 @@ This project presents a comprehensive **E-Commerce Sales Data Analysis** using P
 ## 📁 Project Structure
 
 ```
-Store-Ecommerce-Sales-Data-Analysis/
+PowerBI-Ecommerce-Sales-Dashboard/
 │
 ├── raw_data/                      # Raw dataset files
 │   ├── Orders.csv                 # Customer order information
@@ -136,12 +136,12 @@ Contains transaction-level details:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/divyathakur15/Store-Ecommerce-Sales-Data-Analysis.git
+   git clone https://github.com/divyathakur15/PowerBI-Ecommerce-Sales-Dashboard.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd Store-Ecommerce-Sales-Data-Analysis
+   cd PowerBI-Ecommerce-Sales-Dashboard
    ```
 
 3. **Open the Power BI file**

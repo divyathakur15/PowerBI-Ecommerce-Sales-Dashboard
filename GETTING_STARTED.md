@@ -56,8 +56,8 @@ Before you begin, ensure you have:
 
 **Method 1: Using Git**
 ```bash
-git clone https://github.com/divyathakur15/Store-Ecommerce-Sales-Data-Analysis.git
-cd Store-Ecommerce-Sales-Data-Analysis
+git clone https://github.com/divyathakur15/PowerBI-Ecommerce-Sales-Dashboard.git
+cd PowerBI-Ecommerce-Sales-Dashboard
 ```
 
 **Method 2: Direct Download**

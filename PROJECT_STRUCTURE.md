@@ -3,7 +3,7 @@
 ## Visual Folder Hierarchy
 
 ```
-Store-Ecommerce-Sales-Data-Analysis/
+PowerBI-Ecommerce-Sales-Dashboard/
 │
 ├── 📂 raw_data/                          # Source Data Files
 │   ├── 📄 Orders.csv                     # Customer order information (500 orders)
@@ -23,7 +23,6 @@ Store-Ecommerce-Sales-Data-Analysis/
 ├── 📄 GETTING_STARTED.md                 # User setup guide
 ├── 📄 CHANGELOG.md                       # Version history
 ├── 📄 PROJECT_STRUCTURE.md               # Project structure documentation
-├── 📄 RESTRUCTURING_SUMMARY.md           # Restructuring summary
 ├── 📄 .gitignore                         # Git ignore rules
 └── 🖼️ dark-gradient.jpg                  # Dashboard background asset
 ```
